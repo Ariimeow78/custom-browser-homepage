@@ -1,18 +1,18 @@
 /*
- *  Copyright (C) 2023-2024 TheRealOne78 <bajcsielias78@gmail.com>
+ *  Copyright (C) 2023-2024 Ariimeow78 <bajcsielias78@gmail.com>
  *
- *  This file is part of the 'TheRealOne78's Browser Homepage' project
+ *  This file is part of the 'Ariimeow78's Browser Homepage' project
  *
- *  'TheRealOne78's Browser Homepage' is free software: you can redistribute it
+ *  'Ariimeow78's Browser Homepage' is free software: you can redistribute it
  *  and/or modify it under the terms of the MIT License as published by the
  *  Massachusetts Institute of Technology.
  *
- *  'TheRealOne78's Browser Homepage' is distributed in the hope that it will be
+ *  'Ariimeow78's Browser Homepage' is distributed in the hope that it will be
  *  useful, but WITHOUT ANY WARRANTY; without even the implied warranty of
  *  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the MIT License for
  *  more details.
  *
- *  You should have received a copy of the MIT License along with 'TheRealOne78's
+ *  You should have received a copy of the MIT License along with 'Ariimeow78's
  *  Browser Homepage'. If not, see <https://mit-license.org/>.
  */
 
@@ -202,7 +202,7 @@ else { /* MORBID */
   /* Set other text color as textColor, just to be safe */
   document.querySelectorAll("a").forEach(a => a.style.color = textColor)
 
-  document.querySelectorAll(".welcome-message").forEach(itemTitle => itemTitle.innerHTML = "Ḑ̴̅i̶̼̊e̷̢͆ ̶͖̽<b>T̴͎̏h̶̦͑e̷̬̎R̵̥̆è̵͓a̶͎̽l̸̻͛Ỏ̴̦ṉ̶̌ȇ̶̟7̴̧̾8̴̰́</b>!̶̚ͅ")
+  document.querySelectorAll(".welcome-message").forEach(itemTitle => itemTitle.innerHTML = "Ḑ̴̅i̶̼̊e̷̢͆ ̶͖̽<b>Ȁ̴͎r̶̦͑i̷̬̎ĭ̵̥m̵͓̀e̶͎̽o̸̻͛w̴̶̦̟̉̑7̴̧̾8̴̰́</b>!̶̚ͅ")
 
   document.querySelectorAll(".infinite-cursor").forEach(itemTitle => itemTitle.style.remove())
 
